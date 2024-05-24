@@ -1,0 +1,15 @@
+.my-hover {
+	cursor: pointer;
+	overflow: hidden;
+
+	.transform-scale {
+		transform: scale(1);
+		transition: all 250ms ease-in-out;
+	}
+
+	&:hover {
+		.transform-scale {
+			transform: scale(1.2);
+		}
+	}
+}

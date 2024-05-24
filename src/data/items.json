@@ -1,0 +1,62 @@
+[
+	{
+		"id": 1,
+		"name": "Pysanka",
+		"price": 60.99,
+		"imgUrl": "/images/pysanka_1.webp"
+	},
+	{
+		"id": 2,
+		"name": "Pysanka",
+		"price": 40.9,
+		"imgUrl": "/images/pysanka_2.webp"
+	},
+	{
+		"id": 3,
+		"name": "Pysanka",
+		"price": 40.0,
+		"imgUrl": "/images/pysanka_3.webp"
+	},
+	{
+		"id": 4,
+		"name": "Pysanka",
+		"price": 50.5,
+		"imgUrl": "/images/pysanka_4.webp"
+	},
+	{
+		"id": 5,
+		"name": "Pysanka",
+		"price": 65.8,
+		"imgUrl": "/images/pysanka_5.webp"
+	},
+	{
+		"id": 6,
+		"name": "Pysanka",
+		"price": 55.8,
+		"imgUrl": "/images/pysanka_6.webp"
+	},
+	{
+		"id": 7,
+		"name": "Pysanka",
+		"price": 65.8,
+		"imgUrl": "/images/pysanka_7.webp"
+	},
+	{
+		"id": 8,
+		"name": "Pysanka",
+		"price": 65.8,
+		"imgUrl": "/images/pysanka_8.webp"
+	},
+	{
+		"id": 9,
+		"name": "Pysanka",
+		"price": 65.8,
+		"imgUrl": "/images/pysanka_9.webp"
+	},
+	{
+		"id": 10,
+		"name": "Pysanka",
+		"price": 65.8,
+		"imgUrl": "/images/pysanka_10.webp"
+	}
+]
