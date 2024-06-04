@@ -1,3 +1,7 @@
+[![DEMO](https://img.shields.io/badge/live%20demo-0073cf?style=for-the-badge&logoColor=white)](https://juliakarpenko.github.io/shop-vite-react-typescript/)
+
+![Demo](https://github.com/JuliaKarpenko/shop-vite-react-typescript/blob/main/demo.gif)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
