@@ -84,6 +84,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
 										height: "30px",
 									}}
 									onClick={() => increaseCartQuantity(id)}
+									size="sm"
 								>
 									+
 								</Button>

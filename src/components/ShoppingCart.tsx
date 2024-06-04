@@ -27,7 +27,7 @@ export function ShoppingCart({ isOpen }: ShoppingCartProps) {
 			<div>
 				<img src={bgr} alt="bgr" style={{ width: "50px", height: "100%" }} />
 			</div>
-			<div>
+			<div style={{ width: "100%" }}>
 				<Offcanvas.Header closeButton>
 					<Offcanvas.Title>{t("Cart")}</Offcanvas.Title>
 				</Offcanvas.Header>

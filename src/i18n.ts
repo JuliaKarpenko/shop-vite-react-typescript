@@ -13,7 +13,7 @@ i18n
 		fallbackLng: "en",
 		debug: true,
 		backend: {
-			loadPath: "/locales/{{lng}}/translation.json",
+			loadPath: "/shop-vite-react-typescript/locales/{{lng}}/translation.json",
 		},
 		interpolation: {
 			escapeValue: false, // react already safes from xss

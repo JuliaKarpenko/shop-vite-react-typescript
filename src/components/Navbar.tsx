@@ -11,16 +11,16 @@ export function Navbar() {
 			style={{ height: "100%" }}
 		>
 			<Nav className="flex-column">
-				<Nav.Link to="/" as={NavLink}>
+				<Nav.Link to="/shop-vite-react-typescript/" end as={NavLink}>
 					{t("Home")}
 				</Nav.Link>
-				<Nav.Link to="/about" as={NavLink}>
+				<Nav.Link to="/shop-vite-react-typescript/about" end as={NavLink}>
 					{t("About")}
 				</Nav.Link>
-				<Nav.Link to="/store" as={NavLink}>
+				<Nav.Link to="/shop-vite-react-typescript/store" as={NavLink}>
 					{t("Store")}
 				</Nav.Link>
-				<Nav.Link to="/artists" as={NavLink}>
+				<Nav.Link to="/shop-vite-react-typescript/artists" as={NavLink}>
 					{t("Artists")}
 				</Nav.Link>
 			</Nav>
