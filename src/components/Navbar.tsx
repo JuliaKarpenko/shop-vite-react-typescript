@@ -7,10 +7,10 @@ export function Navbar() {
 
 	return (
 		<NavbarBs
-			className="bg-white shadow-sm mb-3 align-items-start"
+			className="bg-white shadow-sm align-items-start"
 			style={{ height: "100%" }}
 		>
-			<Nav className="flex-column">
+			<Nav className="d-md-flex flex-md-row d-lg-flex flex-lg-column">
 				<Nav.Link to="/shop-vite-react-typescript/" end as={NavLink}>
 					{t("Home")}
 				</Nav.Link>

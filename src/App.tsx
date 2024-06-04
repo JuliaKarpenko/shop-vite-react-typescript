@@ -12,12 +12,12 @@ function App() {
 			<div style={{ borderBottom: "1px solid black" }}>
 				<img src={imgBanner} alt="Banner" className="img-fluid" />
 			</div>
-			<Container className="container my-4">
+			<Container className="container my-4 d-flex align-item-center justify-content-center">
 				<div className="col-12 row">
-					<div className="col-3">
+					<div className="col-lg-3 col-md-12">
 						<Navbar />
 					</div>
-					<div className="col-9">
+					<div className="col-lg-9 col-md-12 mt-3 mt-lg-0 ">
 						<Outlet />
 					</div>
 				</div>

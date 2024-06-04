@@ -37,7 +37,12 @@ export function Artists() {
 				</p>
 				<div>
 					<h4>{t("Video of Mariana`s work")}</h4>
-					<iframe width="360" height="315" src={video}></iframe>
+					<iframe
+						max-width="360"
+						width="auto"
+						height="315"
+						src={video}
+					></iframe>
 				</div>
 				<div>
 					<br />
