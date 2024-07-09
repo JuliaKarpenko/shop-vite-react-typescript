@@ -1,3 +1,23 @@
+# E-commerce mini-store
+## Description.
+This project implements an e-commerce mini-store using Vite, TypeScript, Bootstrap, i18n.ts for localization and React. The application contains several pages, including a page with a list of products for purchase and a cart page. Users can add products to the cart, manage the number of products, and view the total cost in the cart.
+
+## Features.
+- Multiple pages (e.g., home page, product listing page, about).
+- The "Shop" page with a list of products for purchase.
+- The "Add to cart" button on each product, which changes to "Remove from cart" after adding it.
+- A group of buttons for increasing/decreasing the number of products in the cart.
+- Display of products in the cart, including price, quantity, and total cost.
+- Localization with i18n.ts.
+  
+## Technologies used
+- Vite
+- TypeScript
+- React
+- React DOM
+- Bootstrap
+- i18n.ts
+
 [![DEMO](https://img.shields.io/badge/live%20demo-0073cf?style=for-the-badge&logoColor=white)](https://juliakarpenko.github.io/shop-vite-react-typescript/)
 
 ![Demo](https://github.com/JuliaKarpenko/shop-vite-react-typescript/blob/main/demo.gif)
